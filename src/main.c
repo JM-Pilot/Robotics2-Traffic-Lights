@@ -2,7 +2,7 @@
  * this is the source code for group 12 Arduino Project "traffic light"
  * Written by Jibril F. Manlapaz
  * Copyright (C) Mit License 2026 Group 12
- * Code Base: https://github.com/JM-Pilot/Robotics2-Arduino
+ * Code Base: https://github.com/JM-Pilot/Robotics2-Traffic-Lights
  */
 #include <Arduino.h>
 
