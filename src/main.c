@@ -16,7 +16,7 @@
 #define LED_YELLOW PIN2
 
 /* change this if you want to change delays */
-#define GREEN_DELAY 7000 // 5 sec
+#define GREEN_DELAY 7000 // 7 sec
 #define YELLOW_DELAY 3000 // 2 sec
 #define RED_DELAY 7000 // 7 sec
 
